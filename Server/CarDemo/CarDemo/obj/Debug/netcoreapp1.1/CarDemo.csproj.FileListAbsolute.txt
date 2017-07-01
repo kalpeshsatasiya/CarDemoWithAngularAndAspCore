@@ -1,0 +1,9 @@
+D:\Demo\Server\CarDemo\CarDemo\bin\Debug\netcoreapp1.1\CarDemo.deps.json
+D:\Demo\Server\CarDemo\CarDemo\bin\Debug\netcoreapp1.1\CarDemo.runtimeconfig.json
+D:\Demo\Server\CarDemo\CarDemo\bin\Debug\netcoreapp1.1\CarDemo.runtimeconfig.dev.json
+D:\Demo\Server\CarDemo\CarDemo\bin\Debug\netcoreapp1.1\CarDemo.dll
+D:\Demo\Server\CarDemo\CarDemo\bin\Debug\netcoreapp1.1\CarDemo.pdb
+D:\Demo\Server\CarDemo\CarDemo\obj\Debug\netcoreapp1.1\CarDemo.AssemblyInfo.cs
+D:\Demo\Server\CarDemo\CarDemo\obj\Debug\netcoreapp1.1\CarDemo.dll
+D:\Demo\Server\CarDemo\CarDemo\obj\Debug\netcoreapp1.1\CarDemo.pdb
+D:\Demo\Server\CarDemo\CarDemo\obj\Debug\netcoreapp1.1\CarDemo.csprojResolveAssemblyReference.cache
